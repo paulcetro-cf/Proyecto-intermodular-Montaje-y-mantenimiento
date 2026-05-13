@@ -1,8 +1,8 @@
 # Proyecto-intermodular-Montaje-y-mantenimiento
 
-[cite_start]Este proyecto detalla el diseño, configuración, montaje y plan de mantenimiento de la infraestructura informática para una asesoría fiscal y gestoría empresarial[cite: 1, 3]. [cite_start]El objetivo principal es proporcionar un entorno de trabajo estable, rápido y eficiente para tareas administrativas y de gestión tributaria[cite: 8, 9].
+Este proyecto detalla el diseño, configuración, montaje y plan de mantenimiento de la infraestructura informática para una asesoría fiscal y gestoría empresarial[cite: 1, 3]. [cite_start]El objetivo principal es proporcionar un entorno de trabajo estable, rápido y eficiente para tareas administrativas y de gestión tributaria[cite: 8, 9].
 
-> [cite_start]**Nota:** Todos los entregables detallados, especificaciones técnicas y planes de mantenimiento se encuentran incluidos dentro del documento del proyecto [cite: 1-114].
+> **Nota:** Todos los entregables detallados, especificaciones técnicas y planes de mantenimiento se encuentran incluidos dentro del documento del proyecto.
 
 ---
 
